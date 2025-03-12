@@ -1,0 +1,154 @@
+12 Mar 2025 16:56:11,151 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 16:57:17,266 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 16:57:25,505 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 16:57:41,786 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 16:58:06,891 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 16:58:17,787 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 16:59:51,494 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 17:00:06,423 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 17:00:11,285 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 17:09:39,049 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:09:52,564 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:11:02,046 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:11:06,255 TRACE CarsDBRepository 46 findAll - Enter
+12 Mar 2025 17:16:41,237 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:16:44,621 TRACE CarsDBRepository 46 findAll - Enter
+12 Mar 2025 17:16:44,623 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:16:44,624 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:16:44,624 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db
+12 Mar 2025 17:16:44,625 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:16:44,626 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:16:52,092 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4b41dd5c)
+12 Mar 2025 17:17:00,930 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:17:00,935 TRACE CarsDBRepository 46 findAll - Enter
+12 Mar 2025 17:17:00,936 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:17:00,936 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:17:00,937 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db
+12 Mar 2025 17:17:00,937 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:17:00,937 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:17:01,138 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1de5f259)
+12 Mar 2025 17:17:40,956 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:17:40,962 TRACE CarsDBRepository 46 findAll - Enter
+12 Mar 2025 17:17:40,962 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:17:40,963 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:17:40,963 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db
+12 Mar 2025 17:17:40,963 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:17:40,963 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:17:41,147 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1de5f259)
+12 Mar 2025 17:18:25,527 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:18:25,532 TRACE CarsDBRepository 65 findAll - Enter
+12 Mar 2025 17:18:25,532 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:18:25,533 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:18:25,533 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db
+12 Mar 2025 17:18:25,533 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:18:25,533 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:18:25,748 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1de5f259)
+12 Mar 2025 17:18:25,767 TRACE CarsDBRepository 24 findByManufacturer - Enter
+12 Mar 2025 17:18:25,768 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:18:25,768 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1de5f259)
+12 Mar 2025 17:18:25,773 ERROR CarsDBRepository 40 findByManufacturer - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: Tesla)
+12 Mar 2025 17:19:24,392 INFO  CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:19:24,399 TRACE CarsDBRepository 64 findAll - Enter
+12 Mar 2025 17:19:24,400 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:19:24,400 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:19:24,400 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db
+12 Mar 2025 17:19:24,400 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:19:24,401 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:19:24,623 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1de5f259)
+12 Mar 2025 17:19:24,645 TRACE CarsDBRepository 24 findByManufacturer - Enter
+12 Mar 2025 17:19:24,646 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:19:24,646 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1de5f259)
+12 Mar 2025 17:19:24,650 ERROR CarsDBRepository 39 findByManufacturer - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: Tesla)
+12 Mar 2025 17:22:40,586 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:22:40,591 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:22:40,592 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:22:40,592 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db
+12 Mar 2025 17:22:40,593 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:22:40,593 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:22:40,814 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1de5f259)
+12 Mar 2025 17:22:40,826 TRACE CarsDBRepository 62 add - Saved 1 instances
+12 Mar 2025 17:22:40,827 TRACE CarsDBRepository 76 findAll - Enter
+12 Mar 2025 17:22:40,827 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:22:40,828 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1de5f259)
+12 Mar 2025 17:22:50,788 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:22:50,793 TRACE CarsDBRepository 76 findAll - Enter
+12 Mar 2025 17:22:50,794 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:22:50,794 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:22:50,794 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db
+12 Mar 2025 17:22:50,795 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:22:50,795 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:22:51,016 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6404f418)
+12 Mar 2025 17:22:51,034 TRACE CarsDBRepository 25 findByManufacturer - Enter
+12 Mar 2025 17:22:51,034 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:22:51,035 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6404f418)
+12 Mar 2025 17:22:51,042 ERROR CarsDBRepository 40 findByManufacturer - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: Tesla)
+12 Mar 2025 17:23:43,948 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:23:43,956 TRACE CarsDBRepository 76 findAll - Enter
+12 Mar 2025 17:23:43,957 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:23:43,957 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:23:43,957 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db
+12 Mar 2025 17:23:43,958 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:23:43,958 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:23:44,166 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@a3d9978)
+12 Mar 2025 17:23:47,816 TRACE CarsDBRepository 25 findByManufacturer - Enter
+12 Mar 2025 17:23:49,770 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:23:49,772 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@a3d9978)
+12 Mar 2025 17:25:21,277 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:25:21,283 TRACE CarsDBRepository 76 findAll - Enter
+12 Mar 2025 17:25:21,284 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:25:21,284 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:25:21,284 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db
+12 Mar 2025 17:25:21,285 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:25:21,285 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:25:21,486 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4803b726)
+12 Mar 2025 17:25:21,506 TRACE CarsDBRepository 25 findByManufacturer - Enter
+12 Mar 2025 17:25:21,506 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:25:21,506 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4803b726)
+12 Mar 2025 17:25:36,549 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:25:36,553 TRACE CarsDBRepository 76 findAll - Enter
+12 Mar 2025 17:25:36,554 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:25:36,554 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:25:36,554 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db
+12 Mar 2025 17:25:36,554 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:25:36,555 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:25:36,733 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6404f418)
+12 Mar 2025 17:25:36,748 TRACE CarsDBRepository 25 findByManufacturer - Enter
+12 Mar 2025 17:25:36,749 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:25:36,749 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6404f418)
+12 Mar 2025 17:29:29,966 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:29:29,970 TRACE CarsDBRepository 81 findAll - Enter
+12 Mar 2025 17:29:29,971 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:29:29,971 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:29:29,971 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db
+12 Mar 2025 17:29:29,972 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:29:29,972 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:29:30,182 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6404f418)
+12 Mar 2025 17:29:30,202 TRACE CarsDBRepository 25 findByManufacturer - Enter
+12 Mar 2025 17:29:30,202 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:29:30,202 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6404f418)
+12 Mar 2025 17:30:26,198 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:30:26,205 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:30:26,206 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:30:26,206 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db
+12 Mar 2025 17:30:26,206 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:30:26,207 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:30:26,422 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@53ce1329)
+12 Mar 2025 17:30:26,442 TRACE CarsDBRepository 81 findAll - Enter
+12 Mar 2025 17:30:26,442 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:30:26,443 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@53ce1329)
+12 Mar 2025 17:30:26,455 TRACE CarsDBRepository 25 findByManufacturer - Enter
+12 Mar 2025 17:30:26,455 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:30:26,456 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@53ce1329)
+12 Mar 2025 17:30:45,760 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db} 
+12 Mar 2025 17:30:45,764 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:30:45,765 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:30:45,765 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\rafael\Desktop\Lab1_MPP\masini.db
+12 Mar 2025 17:30:45,766 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:30:45,766 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:30:45,985 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1de5f259)
+12 Mar 2025 17:30:45,997 TRACE CarsDBRepository 81 findAll - Enter
+12 Mar 2025 17:30:45,998 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:30:45,998 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1de5f259)
+12 Mar 2025 17:30:46,008 TRACE CarsDBRepository 25 findByManufacturer - Enter
+12 Mar 2025 17:30:46,008 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:30:46,008 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1de5f259)
